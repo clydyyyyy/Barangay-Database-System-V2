@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About\about_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home\home_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Household\household_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Household\record_household_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Household\record_household_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoggedIn\Logged_In.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Officials\official_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Officials\record_official_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Officials\record_official_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Purok\record_purok_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Purok\record_purok_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\record_transaction_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\record_transaction_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction\transaction_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Purok\purok_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resident\record_resident_add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resident\record_resident_update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resident\resident_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\login_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\signup_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\user_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users\user_info_edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
